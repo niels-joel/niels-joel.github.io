@@ -13,11 +13,11 @@
 
 
 <a href="https://niels-joel.github.io/frankrijk/" alt="Frankrijk Website">Frankrijk</a>
-
+<br>
 <a href="https://niels-joel.github.io/frankrijk/" alt="Frankrijk Website"><img align="left" src="images/Frankrijk.jpg" width="300" height="auto" alt="Frankrijk Website Photo" /></a>
 
 <a href="https://niels-joel.github.io/menu/" alt="Menu Website">Menu</a>
-
+<br>
 <a href="https://niels-joel.github.io/menu/" alt="Menu Website"><img align="left" src="images/Menu.jpg" width="300" height="auto" alt="Menu Website Photo" /></a>
 
 
@@ -27,7 +27,7 @@
   <br><br><br><br><br><br><br><br><br><br><br><br>
 <h3>- My Statistics👇</h3>
 
-![My statistics](https://github-readme-stats.vercel.app/api?username=niels-joel&show_icons=true&count_private=true) 
+<img src="https://github-readme-stats.vercel.app/api?username=niels-joel&show_icons=true&count_private=true" alt="My statistics">
   
 </div>
 
